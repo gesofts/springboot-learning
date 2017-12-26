@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: eureka-service
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.zz.springcloud
+Build-Jdk: 1.6.0_13
+Built-By: 1
+Created-By: Maven Integration for Eclipse
+
