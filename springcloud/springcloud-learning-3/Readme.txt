@@ -1,5 +1,5 @@
-ÊµÏÖµÄ¹¦ÄÜÖ÷Òª°üº¬ÈçÏÂ
-1. gitÉÏ¹ÜÀíÅäÖÃÎÄ¼þ£¬ÎÄ¼þÃûÎªconfig
-2. ´´½¨config·þÎñÆ÷£¬»ñÈ¡gitÉÏµÄÅäÖÃÎÄ¼þÐÅÏ¢
-3. client·¢ËÍÇëÇóµÀconfig·þÎñÆ÷£¬»ñÈ¡ÅäÖÃÐÅÏ¢
-4. ×îÖÕÊµÏÖ·Ö²¼Ê½ÅäºÏÅäÖÃ¹ÜÀí
+å®žçŽ°çš„åŠŸèƒ½ä¸»è¦åŒ…å«å¦‚ä¸‹
+1. gitä¸Šç®¡ç†é…ç½®æ–‡ä»¶ï¼Œæ–‡ä»¶åä¸ºconfig
+2. åˆ›å»ºconfigæœåŠ¡å™¨ï¼ŒèŽ·å–gitä¸Šçš„é…ç½®æ–‡ä»¶ä¿¡æ¯
+3. clientå‘é€è¯·æ±‚é“configæœåŠ¡å™¨ï¼ŒèŽ·å–é…ç½®ä¿¡æ¯
+4. æœ€ç»ˆå®žçŽ°åˆ†å¸ƒå¼é…ç½®ç®¡ç†
