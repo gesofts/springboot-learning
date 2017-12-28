@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.zz.springcloud</groupId>
-	<artifactId>eureka-service</artifactId>
+	<artifactId>eureka-service-1</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>eureka-service</name>
+	<name>eureka-service-1</name>
 	<description>Spring Cloud 2</description>
 
 	<parent>
