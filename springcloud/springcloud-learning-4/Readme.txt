@@ -1,16 +1,15 @@
-ÊµÏÖµÄ¹¦ÄÜÖ÷Òª°üº¬ÈçÏÂ
-1. gitÉÏ¹ÜÀíÅäÖÃÎÄ¼þ£¬ÎÄ¼þÃûÎªconfig
-2. ´´½¨config·þÎñÆ÷£¬»ñÈ¡gitÉÏµÄÅäÖÃÎÄ¼þÐÅÏ¢
-3. client·¢ËÍÇëÇóµÀconfig·þÎñÆ÷£¬»ñÈ¡ÅäÖÃÐÅÏ¢
-4. ½áºÏRabbitMQ×Ô¶¯¸üÐÂÅäÖÃÐÅÏ¢
+å®žçŽ°çš„åŠŸèƒ½ä¸»è¦åŒ…å«å¦‚ä¸‹
+1. gitä¸Šç®¡ç†é…ç½®æ–‡ä»¶ï¼Œæ–‡ä»¶åä¸ºconfig
+2. åˆ›å»ºconfigæœåŠ¡å™¨ï¼ŒèŽ·å–gitä¸Šçš„é…ç½®æ–‡ä»¶ä¿¡æ¯
+3. clientå‘é€è¯·æ±‚é“configæœåŠ¡å™¨ï¼ŒèŽ·å–é…ç½®ä¿¡æ¯
+4. ç»“åˆRabbitMQè‡ªåŠ¨æ›´æ–°é…ç½®ä¿¡æ¯
 
-ÔËÐÐ»·¾³£ºjdk1.7
+è¿è¡ŒçŽ¯å¢ƒï¼šjdk1.7
 
-ÈçºÎÔËÐÐ
-1.ÐÞ¸ÄConfigServerµÄappliction.properties£¨¸Ä³ÉÄãµÄgithub²Ö¿âºÍÅäÖÃÄ¿Â¼£»ÐÞ¸ÄÄãµÄgithubÕËºÅÃÜÂë£©
-2.·¢ËÍpostÇëÇó¸øConfigServer(http://localhost:24/bus/refresh)
-3.postÇëÇó¿ÉÒÔÏÂÔØpostman²å¼þ·¢ËÍ
-4.·¢ËÍÇëÇóÍê£¬ÔÙ´ÎÆô¶¯client£¬»ñÈ¡ÐÅÏ¢http://localhost:8080/info/
-5.¿ÉÒÔ¿´µ½githubÐÅÏ¢±ä¸ü
-
-
+å¦‚ä½•è¿è¡Œ
+1.ä¿®æ”¹ConfigServerçš„appliction.propertiesï¼ˆæ”¹æˆä½ çš„githubä»“åº“å’Œé…ç½®ç›®å½•ï¼›ä¿®æ”¹ä½ çš„githubè´¦å·å¯†ç ï¼‰
+2.ä¿®æ”¹githubé…ç½®ä¿¡æ¯
+2.å‘é€postè¯·æ±‚ç»™ConfigServer(http://localhost:24/bus/refresh)
+3.postè¯·æ±‚å¯ä»¥ä¸‹è½½postmanæ’ä»¶å‘é€
+4.å‘é€è¯·æ±‚å®Œï¼Œå†æ¬¡å¯åŠ¨clientï¼ŒèŽ·å–ä¿¡æ¯http://localhost:91/from/
+5.å¯ä»¥çœ‹åˆ°githubä¿¡æ¯å˜æ›´
