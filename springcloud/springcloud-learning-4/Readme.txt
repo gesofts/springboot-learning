@@ -9,7 +9,8 @@
 如何运行
 1.修改ConfigServer的appliction.properties（改成你的github仓库和配置目录；修改你的github账号密码）
 2.修改github配置信息
-2.发送post请求给ConfigServer(http://localhost:24/bus/refresh)
+2.发送post请求给ConfigServer(http://localhost:90/bus/refresh)
+也可以只更新某个服务的配置信息(http://localhost:90/bus/refresh?destination=zz:91)
 3.post请求可以下载postman插件发送
 4.发送请求完，再次启动client，获取信息http://localhost:91/from/
 5.可以看到github信息变更
