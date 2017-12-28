@@ -8,14 +8,14 @@ import com.zz.springcloud.zuulfilter.Filter;
 
 @EnableZuulProxy
 @SpringCloudApplication
-public class Application {
+public class GateWayApplication {
 
 	public static void main(String[] args) {
-		new SpringApplicationBuilder(Application.class).web(true).run(args);
+		new SpringApplicationBuilder(GateWayApplication.class).web(true).run(args);
 	}
 
 	@Bean
-	public Filter accessFilter() {
+	public Filter getFilter() {
 		return new Filter();
 	}
 
