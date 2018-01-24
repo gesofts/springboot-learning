@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org"  
+      xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3"  
+      xmlns:shiro="http://www.pollix.at/thymeleaf/shiro">  
+<head>
+<meta charset="UTF-8" />
+<title>Insert title here</title>
+</head>
+<body>
+	<h3>index</h3>
+	<h3><a  href="/userInfo/userList">userInfo</a></h3>
+	<h3><a shiro:hasRole="admin" href="/userInfo/userAdd">userAdd</a></h3>
+	<h3><a href="/userInfo/userDel">userDel</a></h3>
+</body>
+</html>
